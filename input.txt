@@ -1,0 +1,11 @@
+3600  godzilla's kid 30.0
+36000 godzilla 299
+36001 godzilla's kid 30.1
+36002 godzilla's  kid 30.2
+46002 godzilla's       kid 30.1
+46999 godzilla     30.1
+60000 john jack       andrew wolfgang jiang rami      tom bob robert frank richard smith 123.5
+500000 godzilla's       kid 60
+1000000 godzilla's       kid 100
+3000000 godzilla's kid 300
+5000000 godzilla's kid 89
